@@ -1,0 +1,44 @@
+[
+    {
+
+       "title": "Java Full Stack",
+        "id": "1",
+        "imageUrl": "temp.png",
+        "linkUrl": "catagory/javafs"
+
+
+    },
+    {
+
+        "title": "Javascript Full Stack",
+        "id": "2",
+        "imageUrl": "https://ranjanaraye.github.io/javafullstack/Java.png",
+        "linkUrl": "catagory/jsfs"
+    },
+    {
+
+        "title": "Python Full Stack",
+        "id": "3",
+        "imageUrl": "https://ranjanaraye.github.io/javafullstack/Java.png",
+        "linkUrl": "catagory/pfs"
+    },
+    {
+
+        "title": "Programming Bootcamp",
+        "id": "4",
+        "featured":"true",
+        "imageUrl": "https://ranjanaraye.github.io/javafullstack/Java.png",
+        "linkUrl": "catagory/bootcamp"
+
+    },
+    {
+
+        "title": "Data Science",
+        "id": "5",
+        "featured":"true",
+        "size":"large",
+        "imageUrl": "https://ranjanaraye.github.io/javafullstack/Java.png",
+        "linkUrl": "catagory/ds"
+
+    }
+]
